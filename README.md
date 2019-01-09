@@ -4,4 +4,5 @@ This professional profile, created using Angular 6 and deployed using [*angular-
 
 Instructions are on how to deploy are located [here](https://alligator.io/angular/deploying-angular-app-github-pages/)
 
-![alt text](http://url/to/img.png)
+
+![Github Profile](https://github.com/inuwa/inuwa.github.io/blob/master/Untitled.jpg)
